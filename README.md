@@ -16,7 +16,7 @@ This project implements a visual odometry pipeline to estimate the 3D trajectory
 ## Dataset
 
 Oxford RobotCar Dataset (reduced version). Approx. 500MB. UMD login required for access:  
-📦 [Dataset link](https://umd.box.com/s/khfdc3kkeplu1g5to2297jtvcde6kqhz)
+[Dataset link](https://umd.box.com/s/khfdc3kkeplu1g5to2297jtvcde6kqhz)
 
 ## Project Structure
 
@@ -24,7 +24,6 @@ Oxford RobotCar Dataset (reduced version). Approx. 500MB. UMD login required for
 - `report.pdf` – Technical documentation of methods, results, and discussion.
 - `Oxford dataset reduced/` – Folder containing dataset and model files.
 - `ReadCameraModel.py` – Provided utility to extract intrinsic parameters.
-- `UndistortImage.py` – Optional script for undistorting images.
 
 ## Implementation Steps
 
